@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed mustafa moussa graduated from computer science Suez Canal University 
-- 👀 I’m interested in DevOps Engineering and System administrator
+- 👀 I’m interested in DevOps and System Engineer 
 - 🌱 I’m currently learning devops tools and Linux admin
 - 💞️ I’m looking to collaborate on devops projects
 - 📫 How to reach me ...
